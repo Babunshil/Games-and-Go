@@ -27,9 +27,10 @@ export const data1=[
     },
     {
       serial_number:"05",
-      main_heading:"Simon",
+      main_heading:"Simon-GameS",
       about:"Test your ability to remember ",
       link_game:"/Simon"
     }
+
   ]
   ;
